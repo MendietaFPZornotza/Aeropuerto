@@ -1,0 +1,4 @@
+codigoVuelo:codigoPiloto:numeroPasajeros:precioPorPasajero
+IB1234:P01:150:120
+VY9988:P02:80:90
+LH4421:P03:200:150
